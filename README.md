@@ -3,7 +3,7 @@ This implements the k-means clustering algorithm and plots earthquake data (with
 
 # Calibrating The Map
 
-When I first started plotting the clusters, I got results that I knew were weird (lots of earthquakes were happening in flordia), so I had to recalibrate where the points were being plotted. To calibrate where the points were being plotted, I got earthquake data only from oregon and then shifted the longitude and latitude of all the data points in so it would plot the earthquakes in oregon. 
+When I first started plotting the clusters, I got results that I knew were weird (lots of earthquakes were happening in flordia), so I had to recalibrate where the points were being plotted. To calibrate where the points were being plotted, I got earthquake data only from Oregon and then shifted the longitude and latitude so each of these earthquake data points from Oregon would be plotted in Oregon. 
 
 Result of Oregon earthquake data before calibration:
 ![image of Before Calibration](https://github.com/cmoats/Earthquake_Cluster/blob/main/Before_Calibration.PNG)
@@ -16,11 +16,11 @@ Now that we've calibrated where the points should be plotted, lets look at our r
 
 # Results
 
-After running the program, I got this:
+After running the program I got this:
 
 ![image of earthquake cluster](https://github.com/cmoats/Earthquake_Cluster/blob/main/Clustering%20results.PNG)
 
-The size of the dots reflect the different magnitude of each earthquake and the different colors represent the clusters. To check how accurate our plotting looks, we can compare our plot to a map of the tectonic plates of Earth. So, we expect most of our earthquakes to be happening near the tectonic plate borders and if they aren't then we either have wrong data or we did something else wrong. 
+The size of the dots reflect the different magnitude of each earthquake and the different colors represent the clusters. To check how accurate our plotting looks, we can compare our plot to a map of the tectonic plates of Earth. So, we expect most of our earthquakes to be happening near the tectonic plate borders and if they aren't then we either have wrong data or did something else wrong. 
 
 Here is a map of the tectonic plates:
 
