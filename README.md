@@ -3,7 +3,7 @@ This implements the k-means clustering algorithm and plots earthquake data (with
 
 # Calibrating The Map
 
-When I first started plotting the clusters, I got results that I knew were weird (lots of earthquakes were happening in flordia), so I had to recalibrate where the points were being plotted. To calibrate where the points were being plotted, I got earthquake data only from Oregon and then shifted the longitude and latitude so each of these earthquake data points from Oregon would be plotted in Oregon. 
+When I first started plotting the clusters, I got results that I knew were weird (lots of earthquakes were happening in Flordia), so I had to recalibrate where the points were being plotted. To calibrate where the points were being plotted, I got earthquake data only from Oregon and then shifted the longitude and latitude so each of these earthquake data points from Oregon would be plotted in Oregon. 
 
 Result of Oregon earthquake data before calibration:
 ![image of Before Calibration](https://github.com/cmoats/Earthquake_Cluster/blob/main/Before_Calibration.PNG)
