@@ -1,5 +1,5 @@
 # Earthquake_Cluster
-This implements the k-means clustering algorithm and plots earthquake data (with magnitudes greater than 6 from 2010 to 2021) on a map online. To run, download the files and make sure that the data is in the same file as earthquake_cluster python file.  
+This implements the k-means clustering algorithm and plots earthquake data (with magnitudes greater than 6 from 2010 to 2021) on a map. To run, download the files and make sure that the data is in the same file as earthquake_cluster python file.  
 
 
 
