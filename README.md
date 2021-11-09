@@ -7,7 +7,9 @@ When I first started plotting the clusters, I got results that I knew were weird
 
 Result of Oregon earthquake data before calibration:
 ![image of Before Calibration](https://github.com/cmoats/Earthquake_Cluster/blob/main/Before_Calibration.PNG)
-(Apparently Oregon is the new Canada)
+(Apparently, Oregon is the new Canada)
+
+
 
 Results of Oregon earhquake data after calibration:
 ![image of After Calibration](https://github.com/cmoats/Earthquake_Cluster/blob/main/After_calibration.PNG)
