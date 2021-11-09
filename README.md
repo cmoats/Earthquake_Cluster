@@ -1,7 +1,7 @@
 # Earthquake_Cluster
 This implements the k-means clustering algorithm and plots earthquake data (with magnitudes greater than 6 from 2010 to 2021) on a map. To run, download the files and make sure that the data is in the same file as earthquake_cluster python file.  
 
-#Calibrating The Map
+# Calibrating The Map
 
 When I first started plotting the clusters, I got results that I knew were weird (lots of earthquakes were happening in flordia), so I had to recalibrate where the points were being plotted. To calibrate where the points were being plotted, I got earthquake data only from oregon and then shifted the longitude and latitude of all the data points in so it would plot the earthquakes in oregon. 
 
