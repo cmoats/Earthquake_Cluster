@@ -12,3 +12,5 @@ The size of the dots reflect the different magnitude of each earthquake and the 
 
 Here is a map of the tectonic plates:
 ![image of Tectonic Plates](https://github.com/cmoats/Earthquake_Cluster/blob/main/Tectonic%20Plates.jpg)
+
+So we can see that most of our earthquakes are happening along the tectonic plates which means our plot is working well. 
