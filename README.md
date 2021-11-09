@@ -14,6 +14,7 @@ Result of Oregon earthquake data before calibration:
 Results of Oregon earhquake data after calibration:
 ![image of After Calibration](https://github.com/cmoats/Earthquake_Cluster/blob/main/After_calibration.PNG)
 
+This is by no means perfect, but it's the best I could do.
 Now that we've calibrated where the points should be plotted, lets look at our results. 
 
 
